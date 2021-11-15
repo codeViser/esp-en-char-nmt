@@ -1,4 +1,4 @@
-# Assignment 5 (NMT Assignment)
+# Neural Machine Translation (character-level)
 
 Create virtual environment
 ```bash
